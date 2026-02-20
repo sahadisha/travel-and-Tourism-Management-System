@@ -11,7 +11,7 @@ This web-based application allows users to explore tour packages, book tours, an
   --Book Hotels
   --View Hotel Bookings pending , accepted or rejected
   --Secure Authentication
-  --Responsive U
+  --Responsive UI
  
 🛠️ Admin Module
     --Admin Login
